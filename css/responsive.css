@@ -1,0 +1,199 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.modal-backdrop.show {
+    opacity:0;
+}
+.offcanvas {
+    display: block;
+}
+.whatschat-right-content {
+    display: none;
+}
+.whatschat-left-content {
+    width:100%;
+}
+.whatschat-left-header {
+    width:100%;
+}
+.message-sent-input-area {
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .modal-backdrop.show {
+        opacity:0;
+    }
+    .offcanvas {
+        display: block;
+    }   
+    .whatschat-right-content {
+        display: none;
+    }
+    .whatschat-left-content {
+        width:100%;
+    }
+    .whatschat-left-header {
+        width:100%;
+    }
+    .message-sent-input-area {
+        width:100%;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+    .modal-backdrop.show {
+        opacity:0;
+    }
+    .offcanvas {
+        display: block;
+    }
+    .whatschat-right-content {
+        display: none;
+    }
+    .whatschat-left-content {
+        width:100%;
+    }
+    .whatschat-left-header {
+        width:100%;
+    }
+    .message-sent-input-area {
+        width:100%;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
